@@ -3,7 +3,7 @@ Install Python
 Required Dependencies (install menggunakan command jika terjadi error):
 1. requests (pip install requests)
 2. pytest (pip install pytest)
-3. pytest-allure (pip install pytest)
+3. allure-pytest (pip install allure-pytest)
 4. pytest-html (pip install pytest-html)
 
 buka cmd
