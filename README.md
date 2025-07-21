@@ -1,10 +1,9 @@
-Install Python
-
 Required Dependencies (install menggunakan command jika terjadi error):
-1. requests (pip install requests)
-2. pytest (pip install pytest)
-3. allure-pytest (pip install allure-pytest)
-4. pytest-html (pip install pytest-html)
+1. Python
+2. requests (pip install requests)
+3. pytest (pip install pytest)
+4. allure-pytest (pip install allure-pytest)
+5. pytest-html (pip install pytest-html)
 
 buka cmd
 Navigasikan ke folder GorestAPIAutomation
